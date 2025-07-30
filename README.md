@@ -25,3 +25,10 @@ This project builds and compares two models for classifying images of cats and d
 - Confusion Matrix & Misclassified Samples
 
 ---
+
+## Output
+models/best_custom_cnn.keras
+
+models/best_vgg16_finetuned.keras
+
+Use Git LFS to track model files if pushing to GitHub.
